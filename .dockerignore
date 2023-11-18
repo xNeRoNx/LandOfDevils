@@ -1,0 +1,15 @@
+.git
+.github
+.gitignore
+.dockerignore
+.idea
+.coverage
+.coverage.*
+.vscode
+.env
+**/node_modules/
+**/dist
+npm-debug.log
+Dockerfile
+docker-compose-*.yml
+```
