@@ -1,6 +1,6 @@
 // pages/index.tsx
 import React from 'react';
-import Button from '../components/Button';
+import Button from '@/components/Button';
 
 const Home: React.FC = () => {
 	return (<>
