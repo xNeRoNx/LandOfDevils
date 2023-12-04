@@ -4,8 +4,8 @@ import Button from '@/components/Button';
 
 const Home: React.FC = () => {
 	return (<>
-	<div className="text-center hover:bg-green-400">
-		<h1 className="hover:text-green-800">Witaj na stronie głównej!</h1>
+	<div className="text-center hover:bg-gray-300 p-96">
+		<h1 className="hover:text-green-800">Witaj na stronie gównej!</h1>
 		<Button text="Kliknij mnie" onClick={() => alert('Przycisk kliknięty!')} />
 	</div>
 	</>);
